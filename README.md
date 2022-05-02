@@ -1,6 +1,6 @@
 # Dunzo-clone website
 Clone website of launching page of dunzo website 
-https://dunzo-clone-heroku.herokuapp.com/
+[click here](https://dunzo-clone-heroku.herokuapp.com/)
 
 ## Sample images of the website 
 
